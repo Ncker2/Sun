@@ -1,0 +1,31 @@
+/*Change the background color */
+body {
+    background-color: rgb(255, 231, 210);
+}
+
+
+/* Change the Amenities Color */
+.Color {
+    color: darkred;
+    font-family: Comic, sans-serif;
+}
+
+.colorMe {
+    color: darkblue;
+}
+
+h2 {
+    text-align: center;
+    background-color: skyblue;
+    border: 2px solid;
+    border-color: rgb(230, 176, 122);
+}
+/* put border around image */
+img {
+    border: 2px solid;
+    border-color: green;
+}
+
+#Color {
+    color: darkcyan;
+}
